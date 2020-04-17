@@ -1,6 +1,15 @@
 ---
 published: true
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWP3TC8XV5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SWP3TC8XV5');
+</script>
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: justify;">
 <span style="font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif; font-size: large;">What's not to love about Thanksgiving?&nbsp; It's the start of a four-day weekend.&nbsp; You don't have to get up too early.&nbsp; Sometime in the afternoon, you gather with family to share a huge, delicious meal, with guaranteed leftovers.&nbsp; There's football and a long nap for dad, fellowhip and fun for everyone else.&nbsp; Best of all, except for the food, no shopping is required to have a wonderful day.&nbsp; For that reason, alone, adults love Thanksgiving.</span></div>
