@@ -7,7 +7,7 @@ published: true
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
+<meta name="propeller" content="be7d7a285aa0b284b8d8621d24850a42">
   gtag('config', 'G-SWP3TC8XV5');
 </script>
 <div dir="ltr" style="text-align: left;" trbidi="on">
